@@ -1,4 +1,4 @@
-		#Title   : k-means clustering
+		#Title   : k-means clustering for single attributes
 		
 
 	import random
